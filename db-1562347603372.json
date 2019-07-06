@@ -1,0 +1,169 @@
+{
+  "movies": [
+    {
+      "Title": "bazigar",
+      "Year": "1999",
+      "Rated": "",
+      "Released": "",
+      "Runtime": "",
+      "Genre": "",
+      "Director": "",
+      "Writer": "",
+      "Actors": "",
+      "Plot": "",
+      "Language": "",
+      "Country": "",
+      "Awards": "",
+      "Poster": "",
+      "Ratings": [
+        {
+          "Source": "",
+          "Value": ""
+        },
+        {
+          "Source": "",
+          "Value": ""
+        },
+        {
+          "Source": "",
+          "Value": ""
+        }
+      ],
+      "Metascore": "",
+      "imdbRating": "",
+      "imdbVotes": "",
+      "imdbID": "",
+      "Type": "",
+      "DVD": "",
+      "BoxOffice": "",
+      "Production": "",
+      "Website": "",
+      "Response": "",
+      "id": 2
+    },
+    {
+      "Title": "dkddk",
+      "Year": "1999",
+      "Rated": "",
+      "Released": "",
+      "Runtime": "",
+      "Genre": "",
+      "Director": "",
+      "Writer": "",
+      "Actors": "",
+      "Plot": "",
+      "Language": "",
+      "Country": "",
+      "Awards": "",
+      "Poster": "",
+      "Ratings": [
+        {
+          "Source": "",
+          "Value": ""
+        },
+        {
+          "Source": "",
+          "Value": ""
+        },
+        {
+          "Source": "",
+          "Value": ""
+        }
+      ],
+      "Metascore": "",
+      "imdbRating": "",
+      "imdbVotes": "",
+      "imdbID": "",
+      "Type": "",
+      "DVD": "",
+      "BoxOffice": "",
+      "Production": "",
+      "Website": "",
+      "Response": "",
+      "id": 3
+    },
+    {
+      "Title": "",
+      "Year": "",
+      "Rated": "",
+      "Released": "",
+      "Runtime": "",
+      "Genre": "",
+      "Director": "",
+      "Writer": "",
+      "Actors": "",
+      "Plot": "",
+      "Language": "",
+      "Country": "",
+      "Awards": "",
+      "Poster": "",
+      "Ratings": [
+        {
+          "Source": "",
+          "Value": ""
+        },
+        {
+          "Source": "",
+          "Value": ""
+        },
+        {
+          "Source": "",
+          "Value": ""
+        }
+      ],
+      "Metascore": "",
+      "imdbRating": "",
+      "imdbVotes": "",
+      "imdbID": "",
+      "Type": "",
+      "DVD": "",
+      "BoxOffice": "",
+      "Production": "",
+      "Website": "",
+      "Response": "",
+      "id": 5
+    },
+    {
+      "Title": "Armaan",
+      "Year": "2019",
+      "Rated": "",
+      "Released": "",
+      "Runtime": "",
+      "Genre": "",
+      "Director": "",
+      "Writer": "",
+      "Actors": "",
+      "Plot": "",
+      "Language": "",
+      "Country": "",
+      "Awards": "",
+      "Poster": "",
+      "Ratings": [
+        {
+          "Source": "",
+          "Value": ""
+        },
+        {
+          "Source": "",
+          "Value": ""
+        },
+        {
+          "Source": "",
+          "Value": ""
+        }
+      ],
+      "Metascore": "",
+      "imdbRating": "",
+      "imdbVotes": "",
+      "imdbID": "",
+      "Type": "",
+      "DVD": "",
+      "BoxOffice": "",
+      "Production": "",
+      "Website": "",
+      "Response": "",
+      "id": 6
+    }
+  ],
+  "movies_poster": []
+}

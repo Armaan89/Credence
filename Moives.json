@@ -1,0 +1,251 @@
+{
+  "movies": [
+    {
+      "Title": "bazigar",
+      "Year": "1999",
+      "Rated": "",
+      "Released": "",
+      "Runtime": "",
+      "Genre": "",
+      "Director": "",
+      "Writer": "",
+      "Actors": "",
+      "Plot": "",
+      "Language": "",
+      "Country": "",
+      "Awards": "",
+      "Poster": "",
+      "Ratings": [
+        {
+          "Source": "",
+          "Value": ""
+        },
+        {
+          "Source": "",
+          "Value": ""
+        },
+        {
+          "Source": "",
+          "Value": ""
+        }
+      ],
+      "Metascore": "",
+      "imdbRating": "",
+      "imdbVotes": "",
+      "imdbID": "",
+      "Type": "",
+      "DVD": "",
+      "BoxOffice": "",
+      "Production": "",
+      "Website": "",
+      "Response": "",
+      "id": 2
+    },
+    {
+      "Title": "Janam Samja Karo",
+      "Year": "1999",
+      "Rated": "",
+      "Released": "",
+      "Runtime": "",
+      "Genre": "",
+      "Director": "",
+      "Writer": "",
+      "Actors": "",
+      "Plot": "",
+      "Language": "",
+      "Country": "",
+      "Awards": "",
+      "Poster": "",
+      "Ratings": [
+        {
+          "Source": "",
+          "Value": ""
+        },
+        {
+          "Source": "",
+          "Value": ""
+        },
+        {
+          "Source": "",
+          "Value": ""
+        }
+      ],
+      "Metascore": "",
+      "imdbRating": "",
+      "imdbVotes": "",
+      "imdbID": "",
+      "Type": "",
+      "DVD": "",
+      "BoxOffice": "",
+      "Production": "",
+      "Website": "",
+      "Response": "",
+      "id": 3
+    },
+    {
+      "Title": "Armaan",
+      "Year": "2019",
+      "Rated": "",
+      "Released": "",
+      "Runtime": "",
+      "Genre": "",
+      "Director": "",
+      "Writer": "",
+      "Actors": "",
+      "Plot": "",
+      "Language": "",
+      "Country": "",
+      "Awards": "",
+      "Poster": "",
+      "Ratings": [
+        {
+          "Source": "",
+          "Value": ""
+        },
+        {
+          "Source": "",
+          "Value": ""
+        },
+        {
+          "Source": "",
+          "Value": ""
+        }
+      ],
+      "Metascore": "",
+      "imdbRating": "",
+      "imdbVotes": "",
+      "imdbID": "",
+      "Type": "",
+      "DVD": "",
+      "BoxOffice": "",
+      "Production": "",
+      "Website": "",
+      "Response": "",
+      "id": 6
+    },
+    {
+      "Title": "Kabir Singh",
+      "Year": "2019",
+      "Rated": "",
+      "Released": "",
+      "Runtime": "",
+      "Genre": "",
+      "Director": "",
+      "Writer": "",
+      "Actors": "",
+      "Plot": "",
+      "Language": "",
+      "Country": "",
+      "Awards": "",
+      "Poster": "",
+      "Ratings": [
+        {
+          "Source": "",
+          "Value": ""
+        },
+        {
+          "Source": "",
+          "Value": ""
+        },
+        {
+          "Source": "",
+          "Value": ""
+        }
+      ],
+      "Metascore": "",
+      "imdbRating": "",
+      "imdbVotes": "",
+      "imdbID": "",
+      "Type": "",
+      "DVD": "",
+      "BoxOffice": "",
+      "Production": "",
+      "Website": "",
+      "Response": "",
+      "id": 7
+    },
+    {
+      "Title": "Badlapur",
+      "Year": "2018",
+      "Rated": "",
+      "Released": "",
+      "Runtime": "",
+      "Genre": "",
+      "Director": "",
+      "Writer": "",
+      "Actors": "",
+      "Plot": "",
+      "Language": "",
+      "Country": "",
+      "Awards": "",
+      "Poster": "",
+      "Ratings": [
+        {
+          "Source": "",
+          "Value": ""
+        },
+        {
+          "Source": "",
+          "Value": ""
+        },
+        {
+          "Source": "",
+          "Value": ""
+        }
+      ],
+      "Metascore": "",
+      "imdbRating": "",
+      "imdbVotes": "",
+      "imdbID": "",
+      "Type": "",
+      "DVD": "",
+      "BoxOffice": "",
+      "Production": "",
+      "Website": "",
+      "Response": "",
+      "id": 8
+    },
+    {
+      "Title": "Mohabbatein",
+      "Year": "1995",
+      "Rated": "",
+      "Released": "",
+      "Runtime": "",
+      "Genre": "",
+      "Director": "",
+      "Writer": "",
+      "Actors": "",
+      "Plot": "",
+      "Language": "",
+      "Country": "",
+      "Awards": "",
+      "Poster": "",
+      "Ratings": [
+        {
+          "Source": "",
+          "Value": ""
+        },
+        {
+          "Source": "",
+          "Value": ""
+        },
+        {
+          "Source": "",
+          "Value": ""
+        }
+      ],
+      "Metascore": "",
+      "imdbRating": "",
+      "imdbVotes": "",
+      "imdbID": "",
+      "Type": "",
+      "DVD": "",
+      "BoxOffice": "",
+      "Production": "",
+      "Website": "",
+      "Response": "",
+      "id": 9
+    }
+  ],
+  "movies_poster": []
+}
